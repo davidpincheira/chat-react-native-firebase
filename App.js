@@ -8,13 +8,7 @@ import firebase from 'firebase/app'
 import 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAXTafOfUW3U86sqZauMCBaI_Mzi1z_9W0",
-  authDomain: "leu-chat.firebaseapp.com",
-  projectId: "leu-chat",
-  storageBucket: "leu-chat.appspot.com",
-  messagingSenderId: "438978707308",
-  appId: "1:438978707308:web:7cc3cc6ab686ca42293d49",
-  measurementId: "G-6HSKHSTY42"
+  
 };
 
 if(!firebase.apps.length){
